@@ -17,11 +17,8 @@ If you feel so inclined and would like to show appreciation for my work, you cou
 <a href="https://www.buymeacoffee.com/jadeyryan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### GitHub Stats
-
-<div align="center">
   
 ![Jadey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeynryan&theme=vue-dark&show_icons=true) 
 
 ![Jadey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeynryan&layout=compact&theme=vue-dark&hide=javascript,html,typescript)
 
-</div>
