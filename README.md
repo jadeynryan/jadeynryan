@@ -10,7 +10,7 @@ To learn more, check out my personal website or connect with me:
 
 [![jadeyryan.com](https://img.shields.io/badge/jadeyryan.com-%230b7366.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com) [![CV](https://img.shields.io/badge/CV-%236a2d0a.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com/cv) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadeynryan/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@jadeynryan) 
 
-[![Jadey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeynryan&theme=vue-dark&show_icons=true)](https://github.com/jadeynryan/github-readme-stats) 
+![Jadey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadeynryan&theme=vue-dark&show_icons=true) 
 
 ![Jadey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeynryan&layout=compact&theme=vue-dark&hide=javascript,html,typescript)
 
