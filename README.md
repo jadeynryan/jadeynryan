@@ -8,7 +8,7 @@ I've had a long academic journey through the world of nature, with degrees in Bi
 
 To learn more, check out my personal website or connect with me:
   
-[![jadeyryan.com](https://img.shields.io/badge/jadeyryan.com-%230b7366.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com) [![CV](https://img.shields.io/badge/CV-%236a2d0a.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com/cv) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadeynryan/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@jadeynryan) 
+[![jadeyryan.com](https://img.shields.io/badge/jadeyryan.com-%230b7366.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com) [![CV](https://img.shields.io/badge/CV-%236a2d0a.svg?style=for-the-badge&logoColor=white)](https://jadeyryan.com/cv) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadey-ryan/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%23563ACC?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@jadeynryan) 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3TKSJB)
 
